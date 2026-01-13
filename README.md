@@ -103,7 +103,8 @@ Make sure the `sounds/` folder is in the same directory as `pong.py`.
 
 
 
-<img width="1199" height="946" alt="image" src="https://github.com/user-attachments/assets/c8de3a08-12cc-417f-8a1a-d2fb37ec2580" />
+<img width="1195" height="938" alt="image" src="https://github.com/user-attachments/assets/ba25f271-f67c-4c3a-a7f2-69563adf66fd" />
+
 
 
 ---
